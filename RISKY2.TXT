@@ -1,0 +1,7 @@
+"AadClientId": "b96048a1-0eaa-4eab-ad19-fe55707188d6", 
+"AadSecret": "K~x8Q~K~7eeqdzeNRrzUldFb5qfzVqwY9oOnGb22", 
+"AadTenantDomain": "iTDynamicsIreland.onmicrosoft.com", 
+"AadTenantId": "78995229-6133-4ac7-9c27-28ebf31a21f8",
+"Name": "RISKY2"
+
+COMMIT
